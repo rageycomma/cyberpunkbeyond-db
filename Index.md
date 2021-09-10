@@ -1,5 +1,4 @@
-# Cyberpunk 2020, 2nd Ed.
+# Cyberpunk Reference
 
-## Game reference
+## [Cyberpunk 2020, 2nd ed](/Cyberpunk-2020-2nd-ed/Index.md)
 
-* [Abilities](/Abilities/Abilities.md)
