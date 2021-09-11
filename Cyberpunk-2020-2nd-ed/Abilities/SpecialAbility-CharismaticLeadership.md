@@ -1,7 +1,7 @@
 # Ability: Special - Charismatic Leadership
 **Edition**: Cyberpunk 2020, 2nd ed.
 
-**Page Ref**: p4
+**Page Ref**: p4, p46, p97
 
 **Applies to Role(s)**: Rockerboy
 

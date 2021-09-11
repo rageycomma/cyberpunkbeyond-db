@@ -1,7 +1,7 @@
 # Ability: Special - Authority
 **Edition**: Cyberpunk 2020, 2nd ed.
 
-**Page Ref**: p4, p46
+**Page Ref**: p4, p46, p97
 
 **Applies to Role(s)**: Cop
 
