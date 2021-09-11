@@ -4,6 +4,9 @@
 
 **Page Ref**: p7, p8
 
+## In one sentence
+Rockers who move the masses and stick it to the man
+
 ## Role type
 * Up-close combat
 
