@@ -13,6 +13,7 @@ Corporate soldiers and killers-for-hire
 ## Key Statistics
 * Reflexes (REF) - For fighting and athletic ability
 * Cool (CL) - Solos need to be able to keep their calm while dodging bullets
+* Body Type (BT) - Strength and ability to react
 
 # Special Abilities
 * [Combat Sense](./../Abilities/SpecialAbility-CombatSense.md)
@@ -24,5 +25,11 @@ They originated from government or corporate militaries who originally started a
 
 Solos are known for being extremely wiry; jacked up to the max with all kinds of hardware and drugs, and unstable, living life from luxury one day to strung-out lives in the gutter the next.
 
-# Notable Solos
+## Solo locations
+* Atlantis - A "fern bar" for Corporates and Solos to seek employment.
+* Camden Court - Condominiums with a high rent, favoured by Solos.
+* The Afterlife - A favoured bar among Solos
+
+## Notable Solos
 * Morgan Blackhand
+* Kestral
