@@ -2,7 +2,7 @@
 
 **Edition**: Cyberpunk 2020, 2nd ed.
 
-**Page Ref**: p7, p8
+**Page Ref**: p6, p7
 
 ## In one sentence
 Rockers who move the masses and stick it to the man
